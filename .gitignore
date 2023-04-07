@@ -12,3 +12,6 @@ outputs/*
 runs/*
 cifar10/*
 mnistdata/*
+*.pkl
+*.pt
+*.pth
