@@ -15,3 +15,5 @@ mnistdata/*
 *.pkl
 *.pt
 *.pth
+.idea
+.idea/*
