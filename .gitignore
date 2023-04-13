@@ -17,3 +17,4 @@ mnistdata/*
 *.pth
 .idea
 .idea/*
+*.onnx
