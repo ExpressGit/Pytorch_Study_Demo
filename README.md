@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
+| 4/14/23 | PyTorch10天入门-10-模型部署&推理 | <img src="images/Pytorch-day10.jpg" width="200px"/> | 20:00 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Lh411u7WL)](https://www.bilibili.com/video/BV1Lh411u7WL)|
 | 4/11/23 | PyTorch10天入门-09-模型微调 | <img src="images/PyTorch-day09.jpg" width="200px"/> | 14:28 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Z84y1T7Zh)](https://www.bilibili.com/video/BV1Z84y1T7Zh)|
 | 4/09/23 | PyTorch10天入门-08-模型进阶训练技巧 | <img src="images/Pytorch-day08.jpg" width="200px"/> | 14:02 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Wv4y1H7wr)](https://www.bilibili.com/video/BV1Wv4y1H7wr)|
 | 4/08/23 | PyTorch10天入门-07-模型保存与读取 | <img src="images/PyTorch-day07.jpg" width="200px"/> | 11:24 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Uk4y1v7MH)](https://www.bilibili.com/video/BV1Uk4y1v7MH)|
