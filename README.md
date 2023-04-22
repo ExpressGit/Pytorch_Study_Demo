@@ -26,8 +26,8 @@
 --
 
 
-<img src='./images/wx.jpg' width=40%  alt=""/>          
-<img src='./images/星球.jpg' width=40%  alt=""/>
+<img src='./images/wx.jpg' width=30%  alt=""/>          
+<img src='./images/星球.jpg' width=30%  alt=""/>
 
 加群前先看： 
 
