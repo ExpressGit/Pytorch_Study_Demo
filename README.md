@@ -17,3 +17,23 @@
 | 3/25/23 | PyTorch10天入门-01-基础知识 | <img src="images/PyTorch-day01.jpg" width="200px"/> | 06:16 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1yx4y1A7ps)](https://www.bilibili.com/video/BV1yx4y1A7ps) |
 
 
+
+---
+
+
+技术交流
+--
+
+
+<img src='./images/wx.jpg' width=40%  alt=""/>          
+<img src='./images/星球.jpg' width=40%  alt=""/>
+
+加群前先看： 
+
+- 1 实时分享新的 AI 动态
+- 2 球友共享 AI 资源
+- 3 分享 AI 私有化部署和使用方法
+- 4 进星球免费赠送 chatgpt 账号一个
+- 5 想通过群里推广卖号代充的不用进了
+---
+
