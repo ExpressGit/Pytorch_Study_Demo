@@ -1,4 +1,12 @@
 # Pytorch_Study教程
+
+LetsAskAI(AI助手）：http://www.aiadvice.top/
+
+- 可以使用 AI 助手实现以下代码
+- 使用场景：https://w1l3qi32ze.feishu.cn/wiki/A3DSwMUr0i54YVkKWrQcunGhnef
+- 让AI成为您解决问题的得力助手！用AI的力量解答疑难，提升效率
+- AI 海报设计
+
 官网地址：https://www.aiexplorer.blog/
 - AI在线体验站点（最新）
 - AI能力私有化部署指南
