@@ -13,6 +13,8 @@ LetsAskAI(AI助手）：http://www.aiadvice.top/
 - 深度学习算法原理讲解
 - Pytorch深度学习算法开发教程
 
+项目介绍：https://github.com/ExpressGit/LetAsKAI
+
 ## Pytorch教程视频录制
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
