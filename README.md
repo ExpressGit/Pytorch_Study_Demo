@@ -7,13 +7,14 @@ LetsAskAI(AI助手）：http://www.aiadvice.top/
 - 让AI成为您解决问题的得力助手！用AI的力量解答疑难，提升效率
 - AI 海报设计
 
+项目介绍：https://github.com/ExpressGit/LetAsKAI
+
 官网地址：https://www.aiexplorer.blog/
 - AI在线体验站点（最新）
 - AI能力私有化部署指南
 - 深度学习算法原理讲解
 - Pytorch深度学习算法开发教程
 
-项目介绍：https://github.com/ExpressGit/LetAsKAI
 
 ## Pytorch教程视频录制
 
