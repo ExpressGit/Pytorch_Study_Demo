@@ -51,14 +51,16 @@ LetsAskAI(AI助手）：http://www.aiadvice.top/
 |:-------------------------------:|:-----------------------------------------------:|
 | <img src='./images/wx.jpg' width="300"/> |  <img src="./images/星球.jpg" width="300" /> |
 
-
-
-加群前先看： 
-
-- 1 实时分享新的 AI 动态
-- 2 球友共享 AI 资源
-- 3 分享 AI 私有化部署和使用方法
-- 4 进星球免费赠送 chatgpt 账号一个
-- 5 想通过群里推广卖号代充的不用进了
 ---
 
+## 怎么获取源码
+
+- 关注微信公众号 “AI炼金师”，并加星
+- 关注B站
+<img src='https://github.com/ExpressGit/Pytorch_Study_Demo/assets/11694747/4336349b-1ac0-426f-a405-89866a189065' width="300"/>
+
+- 关注头条号
+<img src='https://github.com/ExpressGit/Pytorch_Study_Demo/assets/11694747/fbe66014-30fb-4db9-a5e8-3d6b676c6f2f' width="300"/>
+
+
+加微信好友，截图后，免费领取源码
