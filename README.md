@@ -1,25 +1,9 @@
 # Pytorch_Study教程
-
-LetsAskAI(AI助手）：http://www.aiadvice.top/
-
-特点：
-
-- 1、一个国内可以访问、使用的大语言模型平台2、首次注册，免费尝鲜国内顺畅体验GPT、文心一言等AI大模型。
-- 2、Python、Java、Matlab、前端页面编码开发
-- 3、论文改进思路
-- 4、AI 海报设计，广告文案生成
-- 5、头条、抖音口播文案生成
-- 6、可提供对外 API 服务
-- 使用场景：https://w1l3qi32ze.feishu.cn/wiki/A3DSwMUr0i54YVkKWrQcunGhnef
-
-项目介绍：https://github.com/ExpressGit/LetAsKAI
-
 官网地址：https://www.aiexplorer.blog/
 - AI在线体验站点（最新）
 - AI能力私有化部署指南
 - 深度学习算法原理讲解
 - Pytorch深度学习算法开发教程
-
 
 ## Pytorch教程视频录制
 
@@ -51,16 +35,14 @@ LetsAskAI(AI助手）：http://www.aiadvice.top/
 |:-------------------------------:|:-----------------------------------------------:|
 | <img src='./images/wx.jpg' width="300"/> |  <img src="./images/星球.jpg" width="300" /> |
 
+
+
+加群前先看： 
+
+- 1 实时分享新的 AI 动态
+- 2 球友共享 AI 资源
+- 3 分享 AI 私有化部署和使用方法
+- 4 进星球免费赠送 chatgpt 账号一个
+- 5 想通过群里推广卖号代充的不用进了
 ---
 
-## 怎么获取源码
-
-- 关注微信公众号 “AI炼金师”，并加星
-- 关注B站
-<img src='https://github.com/ExpressGit/Pytorch_Study_Demo/assets/11694747/4336349b-1ac0-426f-a405-89866a189065' width="300"/>
-
-- 关注头条号
-<img src='https://github.com/ExpressGit/Pytorch_Study_Demo/assets/11694747/fbe66014-30fb-4db9-a5e8-3d6b676c6f2f' width="300"/>
-
-
-加微信好友，截图后，免费领取源码

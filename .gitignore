@@ -13,9 +13,8 @@ runs/*
 cifar10/*
 mnistdata/*
 *.pkl
-*.pt
 *.pth
 .idea
 .idea/*
-*.onnx
-*.ipynb
+
+
